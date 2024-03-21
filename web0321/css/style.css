@@ -1,0 +1,38 @@
+@charset "UTF-8";
+body{
+    background-color: #bbf1ef;
+}
+h1{
+    font-size: 18px;
+    border: 3px solid #fff;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px auto;
+    width: 300px;
+    text-align: center;
+    
+}
+
+p, ul{
+    text-align: center;
+    margin-bottom: 20px;
+}
+img{
+    border-radius: 50%;
+}
+a{
+    font-size: 18px;
+    background-color: #ff919e;
+    display: block;
+    padding: 20px 0;
+    border-radius: 30px;
+    color:#fff;
+    font-weight: bold;
+}
+ul{
+    width: 300px;
+    margin: 0 auto;
+}
+li{
+    margin-bottom: 20px;
+}
